@@ -1,0 +1,27 @@
+<style>
+	#todoList{
+		color: red;
+	}
+	.favList{
+		color: blueviolet;
+	}
+</style>
+<style type="text/css">
+	#div1{
+		background-color: greenyellow;
+		
+	}
+	#div2{
+		background-color: skyblue;
+	}
+	#div3{
+		background-color: lightpink;
+	}
+	#div4{
+		background-color: coral;
+	}
+	#div1, #div2, #div3, #div4{
+		border:dashed;
+	}
+
+</style>
